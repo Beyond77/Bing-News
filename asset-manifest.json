@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Bing-News/static/css/main.25f91f2f.chunk.css",
-    "main.js": "/Bing-News/static/js/main.701671c0.chunk.js",
-    "main.js.map": "/Bing-News/static/js/main.701671c0.chunk.js.map",
+    "main.js": "/Bing-News/static/js/main.eb5faf9e.chunk.js",
+    "main.js.map": "/Bing-News/static/js/main.eb5faf9e.chunk.js.map",
     "runtime-main.js": "/Bing-News/static/js/runtime-main.550670d2.js",
     "runtime-main.js.map": "/Bing-News/static/js/runtime-main.550670d2.js.map",
     "static/js/2.53574bac.chunk.js": "/Bing-News/static/js/2.53574bac.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.550670d2.js",
     "static/js/2.53574bac.chunk.js",
     "static/css/main.25f91f2f.chunk.css",
-    "static/js/main.701671c0.chunk.js"
+    "static/js/main.eb5faf9e.chunk.js"
   ]
 }
