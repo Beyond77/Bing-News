@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/.github.io/Bing-News/static/css/main.25f91f2f.chunk.css",
-    "main.js": "/.github.io/Bing-News/static/js/main.15ccc4be.chunk.js",
-    "main.js.map": "/.github.io/Bing-News/static/js/main.15ccc4be.chunk.js.map",
-    "runtime-main.js": "/.github.io/Bing-News/static/js/runtime-main.6648ec66.js",
-    "runtime-main.js.map": "/.github.io/Bing-News/static/js/runtime-main.6648ec66.js.map",
-    "static/js/2.801e32ad.chunk.js": "/.github.io/Bing-News/static/js/2.801e32ad.chunk.js",
-    "static/js/2.801e32ad.chunk.js.map": "/.github.io/Bing-News/static/js/2.801e32ad.chunk.js.map",
-    "index.html": "/.github.io/Bing-News/index.html",
-    "static/css/main.25f91f2f.chunk.css.map": "/.github.io/Bing-News/static/css/main.25f91f2f.chunk.css.map",
-    "static/js/2.801e32ad.chunk.js.LICENSE.txt": "/.github.io/Bing-News/static/js/2.801e32ad.chunk.js.LICENSE.txt"
+    "main.css": "/Bing-News/static/css/main.25f91f2f.chunk.css",
+    "main.js": "/Bing-News/static/js/main.c6932556.chunk.js",
+    "main.js.map": "/Bing-News/static/js/main.c6932556.chunk.js.map",
+    "runtime-main.js": "/Bing-News/static/js/runtime-main.550670d2.js",
+    "runtime-main.js.map": "/Bing-News/static/js/runtime-main.550670d2.js.map",
+    "static/js/2.53574bac.chunk.js": "/Bing-News/static/js/2.53574bac.chunk.js",
+    "static/js/2.53574bac.chunk.js.map": "/Bing-News/static/js/2.53574bac.chunk.js.map",
+    "index.html": "/Bing-News/index.html",
+    "static/css/main.25f91f2f.chunk.css.map": "/Bing-News/static/css/main.25f91f2f.chunk.css.map",
+    "static/js/2.53574bac.chunk.js.LICENSE.txt": "/Bing-News/static/js/2.53574bac.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6648ec66.js",
-    "static/js/2.801e32ad.chunk.js",
+    "static/js/runtime-main.550670d2.js",
+    "static/js/2.53574bac.chunk.js",
     "static/css/main.25f91f2f.chunk.css",
-    "static/js/main.15ccc4be.chunk.js"
+    "static/js/main.c6932556.chunk.js"
   ]
 }
